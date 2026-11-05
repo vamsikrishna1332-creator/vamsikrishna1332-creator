@@ -17,56 +17,34 @@
 
 ---
 
+<!-- MATRIX DIGITAL RAIN NAME -->
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vamsikrishna1332-creator/vamsikrishna1332-creator/main/matrix-name.svg" width="100%" alt="Vamsi Krishna Matrix Banner"/>
+
+</div>
+
+<!-- ANIMATED DEVELOPER TERMINAL -->
+
 ## 💻 Developer Terminal
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1600&pause=850&color=00FF88&center=true&vCenter=true&width=650&lines=%24+whoami;%3E+Vamsi+Krishna;%24+cat+skills.txt;%3E+Python+%7C+C%2B%2B+%7C+Linux;%24+systemctl+status+creativity;%3E+active+(running)" alt="Animated terminal commands"/>
+<img src="https://raw.githubusercontent.com/vamsikrishna1332-creator/vamsikrishna1332-creator/main/matrix-terminal.svg" width="100%" alt="Animated Developer Terminal"/>
 
 </div>
 
-```bash
-vamsi@github:~$ neofetch
-
-       .--.          vamsi@github
-      |o_o |         -------------------------
-      |:_/ |         Role: Developer
-     //   \ \        OS: Linux / Windows
-    (|     | )       Languages: Python, C++
-   /'\_   _/`\       Editor: VS Code
-   \___)=(___/       Interests: Systems, AI
-                     Theme: Matrix Green
-                     Status: Building & Learning
-```
-
-```console
-vamsi@github:~$ ./system-check.sh
-
-[ OK ] Development environment initialized
-[ OK ] Python environment available
-[ OK ] Git workflow configured
-[ OK ] Creativity service running
-[ OK ] Learning mode enabled
-
-SYSTEM STATUS: ONLINE
-```
-
----
-
-## ⚡ Execute Commands
+### ⚡ Execute Commands
 
 <div align="center">
 
 <a href="https://github.com/vamsikrishna1332-creator?tab=repositories">
-<img src="https://img.shields.io/badge/%24_ls_repositories-00FF88?style=for-the-badge&logo=github&logoColor=black" alt="Repositories"/>
+<img src="https://img.shields.io/badge/%24_ls_repositories-00FF88?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-<a href="https://github.com/vamsikrishna1332-creator?tab=overview">
-<img src="https://img.shields.io/badge/%24_git_activity-008F45?style=for-the-badge&logo=git&logoColor=white" alt="Activity"/>
-</a>
-
-<a href="https://github.com/vamsikrishna1332-creator?tab=stars">
-<img src="https://img.shields.io/badge/%24_view_stars-00CC66?style=for-the-badge&logo=github&logoColor=black" alt="Stars"/>
+<a href="https://github.com/vamsikrishna1332-creator">
+<img src="https://img.shields.io/badge/%24_git_activity-008F45?style=for-the-badge&logo=git&logoColor=white"/>
 </a>
 
 </div>
