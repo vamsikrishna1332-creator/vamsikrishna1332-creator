@@ -98,17 +98,22 @@ me = Developer()
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vamsikrishna1332-creator&show_icons=true&theme=merko&hide_border=true" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vamsikrishna1332-creator&show_icons=true&bg_color=07130B&title_color=00FF88&text_color=BAFFD2&icon_color=00FF88&border_color=008F45&hide_border=false&rank_icon=github" width="49%" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsikrishna1332-creator&layout=compact&theme=merko&hide_border=true" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsikrishna1332-creator&layout=compact&bg_color=07130B&title_color=00FF88&text_color=BAFFD2&border_color=008F45&hide_border=false" width="49%" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com?user=vamsikrishna1332-creator&theme=merko&hide_border=true" alt="Contribution streak"/>
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=vamsikrishna1332-creator&theme=dark&background=07130B&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=BAFFD2&dates=BAFFD2&border=008F45" alt="GitHub Streak"/>
 
 </div>
+
+---
 
 ---
 
