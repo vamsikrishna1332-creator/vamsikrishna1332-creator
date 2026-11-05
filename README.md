@@ -83,13 +83,15 @@ me = Developer()
 
 <!-- ====== TROPHIES ====== -->
 
+
 ## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vamsikrishna1332-creator&theme=algolia&no-frame=true&row=1&column=6" />
+[![GitHub Achievements](https://img.shields.io/badge/🏆_VIEW_MY_ACHIEVEMENTS-7F00FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vamsikrishna1332-creator?tab=achievements)
 
 </div>
+
 
 <!-- ====== PROJECTS ====== -->
 
@@ -115,11 +117,12 @@ me = Developer()
 
 <!-- ====== ACTIVITY GRAPH ====== -->
 
+
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vamsikrishna1332-creator&theme=tokyo-night&hide_border=true&area=true"/>
+[![GitHub Activity](https://img.shields.io/badge/VIEW_LIVE_CONTRIBUTIONS-00D9FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/vamsikrishna1332-creator)
 
 </div>
 
